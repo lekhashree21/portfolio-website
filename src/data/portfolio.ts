@@ -149,11 +149,11 @@ export const profile = {
   summary:
     "I am a final-year Electronics and Communication Engineering student passionate about Full Stack Development, Artificial Intelligence, Machine Learning, Cloud Computing, and IoT. I enjoy building impactful software solutions that solve real-world problems and continuously improve my technical skills. I am seeking Software Development or AI Engineering opportunities.",
   contact: {
-    phone: '+91 XXXXX XXXXX',
-    email: 'lekhashree.b@example.com',
-    linkedin: '#',
-    github: '#',
-    leetcode: '#',
+    phone: '+91 9025645658',
+    email: 'lekhashree9385@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/lekhashree-b-913169327/',
+    github: 'https://github.com/lekhashree21',
+    leetcode: 'https://leetcode.com/u/lekha2005/',
     resume: '#',
   },
 };
